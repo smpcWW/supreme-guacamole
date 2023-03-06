@@ -1,0 +1,1 @@
+attachment-client bat-client comm ext.commonapps ext.framework-ext credit.credit-client credit.credit-library credit.credit-service credit.service-credit-parent framework framework-util jdbc parameters product-list redis-cache excel iiot
