@@ -14,4 +14,3 @@ do
     #ls -lt $archiva/$dir | grep -v "^d" | grep -v "^total" | grep -v "maven*" | head -n 3 >> $motiondependencies
     ls -lt $archiva/$dir | grep -v "^total" | grep -v "maven" | head -n 10 >> $motiondependencies
 done
-

@@ -1,0 +1,2 @@
+scp dp016707a@blmotpdctfsvn02:/home/DP016707A/jenkinsMigration/MotionMobile-Motion-dynamic-development.tar.gz C://Users/DP016707/Downloads
+scp C://Users/DP016707/Downloads/MotionMobile-Motion-dynamic-development.tar.gz dp016707a@BLMOTPDJNKMST01:/home/DP016707A/jenkinsMigration/
